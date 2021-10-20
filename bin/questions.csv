@@ -1,0 +1,11 @@
+question,option1,option2,option3,option4,correctAnswer,questionType
+Apa initial subco kalian?,BR,JP,GA,TC,TC,Multiple Choice
+Siapa subco DataBase kalian?,CC,BR,VN,ST,CC,Multiple Choice
+Apakah BR imba?,a,b,c,d,TRUE,Binary
+Apa kesamaan JP dan VN,Tidak ada,Vincent,Vincentius,Benedict,Vincent,Multiple Choice
+a,a,b,c,d,b,Multiple Choice
+b,a,b,c,d,TRUE,Binary
+c,a,b,c,d,FALSE,Binary
+d,a,b,c,d,TRUE,Binary
+a,a,b,c,d,FALSE,Binary
+b,a,b,c,d,TRUE,Binary

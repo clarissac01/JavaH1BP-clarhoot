@@ -1,0 +1,5 @@
+username,password,score,role
+ben,ben,0,teacher
+benny,benny,0,student
+teacher,teacher,0,teacher
+student,student,0,student
